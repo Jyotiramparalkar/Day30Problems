@@ -1,6 +1,7 @@
 package com.bridgelabz;
 import org.junit.Test;
 import org.junit.Assert;
+
 public class InvoiceGeneratorTest {
     InvoiceGenerator invoiceGenerator = new InvoiceGenerator();
 
