@@ -29,4 +29,5 @@ public class User {
     public void setRideList(ArrayList<Ride> rideList) {
         this.rideList = rideList;
     }
+
 }
